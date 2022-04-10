@@ -4,7 +4,8 @@ def fibonacci(num : int) -> int:
     return fibonacci(num - 1) + fibonacci(num - 2)
 
 
-limit = 10
+limit = 0
 for a in range(limit):
     print(fibonacci(a), end=' ')
 print()
+print(fibonacci(60))
