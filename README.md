@@ -11,7 +11,7 @@ Temas:
 | 18/0011472  |  Rodolfo Cabral Neves |
 
 ## Sobre 
-Exercícios resolvidos de programação dinâmica da plataforma [BEECROWD](beecrowd.com.br) 
+Exercícios resolvidos de programação dinâmica da plataforma [BEECROWD](https://www.beecrowd.com.br/judge/en/login) 
 
 ## Screenshots
 
