@@ -1,7 +1,7 @@
 Temas:
  - PD 
  
-# Exercícios de Programação Dinaâmica
+# Exercícios de Programação Dinâmica
 
 **Conteúdo da Disciplina**: Programação Dinaâmica<br>
 
