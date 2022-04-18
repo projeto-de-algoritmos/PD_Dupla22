@@ -14,6 +14,9 @@ Temas:
 Exercícios resolvidos de programação dinâmica da plataforma [BEECROWD](https://www.beecrowd.com.br/judge/en/login) 
 
 ## Screenshots
+![Screenshot 2022-04-18 at 09-42-18 Submission #27282682 - beecrowd](https://user-images.githubusercontent.com/9947506/163810200-c4f30244-a803-43b2-8a8d-40a784b380fa.png)
+![Screenshot 2022-04-18 at 09-42-47 Submission #27281150 - beecrowd](https://user-images.githubusercontent.com/9947506/163810204-9e1c27ad-3959-446e-b571-2b64ac0cfca0.png)
+![Screenshot 2022-04-18 at 09-43-25 Submission #27281989 - beecrowd](https://user-images.githubusercontent.com/9947506/163810205-ab5d9592-7f1d-4eb7-9f01-e4e4cd4ca8b4.png)
 
 
 
